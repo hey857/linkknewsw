@@ -1,0 +1,6 @@
+{
+  "name": "AeroShield VPN & Turbo Hub",
+  "description": "Fast, lightweight global VPN portal with free server switching across 35+ countries, WiFi turbo speed accelerator, and direct in-app access to YouTube, Instagram, X (Twitter), and Google.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
